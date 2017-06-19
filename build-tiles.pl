@@ -120,3 +120,5 @@ foreach my $line (@editor) {
 close OUT_EDITOR;
 
 print "Added entry to Outside section of data/editor.cfg\n";
+
+print "All built, your new tile set should be good to go and available in the Outside section of the editor!\n";
